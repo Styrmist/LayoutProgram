@@ -1,0 +1,1 @@
+Project was created for deep investigation of collection view layouts. Also tested TV target creation.
